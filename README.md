@@ -1,6 +1,6 @@
-# 🔥🔥🔥 RESEARCH REPORT ABOUT .NET 
+# RESEARCH REPORT ABOUT .NET 
 
-🔥🔥 Members in this Project 
+Members in this Project 
 ---
 
 - 🔥 Lee Jong Won (14학번 2016년도 FAN 회장)
