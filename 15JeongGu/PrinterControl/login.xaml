@@ -1,0 +1,20 @@
+﻿<Page x:Class="PrinterControl.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PrinterControl"
+      mc:Ignorable="d" 
+      d:DesignHeight="360" d:DesignWidth="300"
+      Title="Page1">
+
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="100" Margin="103,29,0,0" VerticalAlignment="Top" Width="100" Source="img/print.png"/>
+        
+        <TextBox x:Name="ID" HorizontalAlignment="Left" Height="29" Margin="58,158,0,0" TextWrapping="Wrap" Tag="hello" Text="아이디" VerticalAlignment="Top" Width="190" SelectionOpacity="-4"/>
+        <TextBox x:Name="PASSWD" HorizontalAlignment="Left" Height="29" Margin="58,189,0,0" TextWrapping="Wrap" Text="비밀번호" VerticalAlignment="Top" Width="190"/>
+
+        <Button x:Name="LGNButton" Content="로그인" HorizontalAlignment="Left" Margin="58,248,0,0" VerticalAlignment="Top" Width="190" Height="24" Click="Button_Click"/>
+
+    </Grid>
+</Page>
