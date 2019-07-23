@@ -1,3 +1,3 @@
 ## 종추
 
-git desktop test.
+First commit about view.(07.23)
