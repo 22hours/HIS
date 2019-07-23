@@ -15,7 +15,8 @@ Beacause we must need that the control it's like stop about your keyboard input 
 
 ### Issue
 
-buffer overRun in cpp Program
+- in x86 bit CPU our program is not running well
+- buffer overRun in cpp Program
 
 ### ToDo
 
