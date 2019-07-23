@@ -1,10 +1,13 @@
 ## GLOBAL API HOOKING
 
-GOAL
+GOAL : CONTROL ALL DOC ON PRINTER
 ---
 
-### CONTROL ALL DOC ON PRINTER
+### Research
 
+ - Using Global API Hooking we can control all Printing Docs in Window system
+ 
+ - for my hook ability, devleoping [notepad hook program](https://github.com/22hours/HIS/tree/master/15JeongHwan/APIHookinig/NotepadHookV0) now use c++ language 
 
 ### Issue
 
@@ -12,4 +15,4 @@ GOAL
 
 ### ToDo
 
-TT
+improve my ability....
