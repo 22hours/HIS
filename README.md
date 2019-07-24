@@ -5,7 +5,7 @@
 ---
 
 - 🎓 Lee Jong Won (14학번 2016년도 FAN 회장)
->이종원의 [README](./14JongChu/jongchu.md)<br>
+>이종원의 [README](./14JongChu/README.md)<br>
 >이종원의 [Git](./https://github.com/jongwuner)
 
 - 🎓 Lee Jeong Hwan (15학번 2019년도 FAN 회장)
