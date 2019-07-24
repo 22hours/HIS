@@ -15,6 +15,7 @@
         <TextBox x:Name="PASSWD" HorizontalAlignment="Left" Height="29" Margin="58,189,0,0" TextWrapping="Wrap" Text="비밀번호" VerticalAlignment="Top" Width="190"/>
 
         <Button x:Name="LGNButton" Content="로그인" HorizontalAlignment="Left" Margin="58,248,0,0" VerticalAlignment="Top" Width="190" Height="24" Click="Button_Click"/>
-
+        <Button x:Name="GotoRGT" Content="회원가입" HorizontalAlignment="Left" Margin="58,277,0,0" VerticalAlignment="Top" Width="90" Height="30" Click="GotoRGT_Click"/>
+        <Button x:Name="GotoMain" Content="메인으로" HorizontalAlignment="Left" Margin="153,277,0,0" VerticalAlignment="Top" Width="95" Height="30" Click="GotoMain_Click"/>
     </Grid>
 </Page>

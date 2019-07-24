@@ -41,6 +41,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Management" />
     <Reference Include="System.Web" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
@@ -60,12 +61,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Global.cs" />
     <Compile Include="login.xaml.cs">
       <DependentUpon>login.xaml</DependentUpon>
     </Compile>
     <Compile Include="mainPage.xaml.cs">
       <DependentUpon>mainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="PrinterDevicePortEventMonitor.cs" />
     <Compile Include="register.xaml.cs">
       <DependentUpon>register.xaml</DependentUpon>
     </Compile>

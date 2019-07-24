@@ -27,7 +27,7 @@ namespace PrinterControl
         private string UID { set; get; }
         private string UPW { set; get; }
         private bool check = false;
-
+        
         public Page1()
         {
             InitializeComponent();
@@ -57,6 +57,9 @@ namespace PrinterControl
                     if ((string)r["passwd"] == UPW)
                     {
                         dbconn.myconn.Close();
+                        Global.LOGIN(UID);
+                        Global.nav(this, "mainPage.xaml");
+                        /*
                         Uri uri = new Uri("mainPage.xaml", UriKind.Relative);
                         try
                         {
@@ -66,6 +69,7 @@ namespace PrinterControl
                         {
                             MessageBox.Show(ex.ToString());
                         }
+                        */
                     }
                     else
                     {
@@ -88,6 +92,38 @@ namespace PrinterControl
                 dbconn.myconn.Close();
             }
             
+        }
+
+        private void GotoRGT_Click(object sender, RoutedEventArgs e)
+        {
+            Global.nav(this, "register.xaml");
+            /*
+            Uri uri = new Uri("register.xaml", UriKind.Relative);
+            try
+            {
+                NavigationService.GetNavigationService(this).Navigate(new Uri("register.xaml", UriKind.Relative));
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            */
+        }
+
+        private void GotoMain_Click(object sender, RoutedEventArgs e)
+        {
+            Global.nav(this, "mainPage.xaml");
+            /*
+            Uri uri = new Uri("mainPage.xaml", UriKind.Relative);
+            try
+            {
+                NavigationService.GetNavigationService(this).Navigate(new Uri("mainPage.xaml", UriKind.Relative));
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+            */
         }
     }
 }
