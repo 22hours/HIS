@@ -14,3 +14,4 @@
   - spoolsv.exe : https://github.com/jongwuner/Etc/wiki/Spoolsv.exe-%3F
 
 - ## Doing DLL Injection Tutorial(07.26~)
+  - https://reversecore.com/38?category=216978
