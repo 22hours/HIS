@@ -1,8 +1,8 @@
-# 활자인쇄소 Scenario 종추Ver
-> 1. When a printer request comes in,
-> 2. The spoolsv.exe process runs automatically.
-> 3. DLL Injection works with typepress.dll.
-> 4. Type Membership_ Activate the authentication process. <br>
+# Scenario 종추Ver
+> 1. When a printer request comes in.
+> 2. `The spoolsv.exe` process runs automatically.
+> 3. **DLL Injection** works with `typepress.dll`.
+> 4. Activate the **authentication** process. <br>
 > 5-1. Login **Success** -> **Print O**<br>
 > 5-2. Login **Failed** -> **Print X**
 
