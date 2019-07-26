@@ -1,4 +1,12 @@
-# 활자인쇄소 종추Ver
+# 활자인쇄소 Scenario 종추Ver
+> 1. When a printer request comes in,
+> 2. The spoolsv.exe process runs automatically.
+> 3. DLL Injection works with typepress.dll.
+> 4. Type Membership_ Activate the authentication process. <br>
+> 5-1. Login **Success** -> **Print O**<br>
+> 5-2. Login **Failed** -> **Print X**
+
+# History
 - First commit about view.(07.23~)
 - Following Deviare2 & windows-printer-activity-hooking-sample (07.25~)<br>
   Ref. 
