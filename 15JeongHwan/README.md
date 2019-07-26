@@ -1,7 +1,51 @@
-## GLOBAL API HOOKING
+## 활자 인쇄소 
 
-GOAL : CONTROL ALL DOC ON PRINTER
+
+
+
+## GOAL : CONTROL ALL DOC ON PRINTER
+
+ 
+--- 
+### 2019-07-26 Commit
+
+#### Success
+
+Finally we find clue!!
+
+We think only answer is global hooking and we prove it!
+
+To Block Print Doc ....
+
+![](./img/hook1.png)
+
+> hooking window to spooler message and we can inject our dll in that control flow
+
+so we need hooking tech
+
+**To sum up this** 
+
+- First. We need hook spoolvs.exe that is Print Spooler Service
+
+- Second. Change the normal printing control flow to our Scenario
+
+- Third. We get the money!
+ 
+ 
+
+ 
+#### Issue
+![](./img/issue1.JPG)
+
+
+First i success comfile "windows print hooking.cpp"
+
+but i can't get "spoolsv.exe" process.....
+
+
+
 ---
+### 2019-07-14 Commit
 
 ### Research
 
