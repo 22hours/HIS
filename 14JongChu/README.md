@@ -7,8 +7,8 @@
 > 5-2. Login **Failed** -> **Print X**
 
 # History
-- First commit about view.(07.23~)
-- Following Deviare2 & windows-printer-activity-hooking-sample (07.25~)<br>
+- First commit about view.(19.07.23~)
+- Following Deviare2 & windows-printer-activity-hooking-sample (19.07.25~)<br>
   Ref. 
   - PM tutorial : https://github.com/srw/windows-printer-activity-hooking-sample<br>
   - Deviare2 git : https://github.com/nektra/Deviare2
@@ -18,8 +18,11 @@
 
 # Now
 ![ex_screenshot](./img/present.png)  
-- ## **what the Spoolsv.exe ???? (07.26)**
+- ## **what the Spoolsv.exe ???? (19.07.26)**
   - spoolsv.exe : https://github.com/jongwuner/Etc/wiki/Spoolsv.exe-%3F
 
-- ## Doing DLL Injection Tutorial(07.26~)
+- ## Doing DLL Injection Tutorial(19.07.26~)
   - https://reversecore.com/38?category=216978
+  - Complete Notepad DLL Injection(19.07.29) 
+    - link. https://github.com/jongwuner/Etc/tree/master/Hooking/DLL%20Injection_Notepad
+    - ref. https://wendys.tistory.com/23
