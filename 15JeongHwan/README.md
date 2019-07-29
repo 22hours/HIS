@@ -6,7 +6,10 @@
 ## GOAL : CONTROL ALL DOC ON PRINTER
  
 ---
-### 2019-07-28 Commit
+### 2019-07-28 Commit!!
+
+
+#### Success
 
 Now i successfully comfile "Printer Logger" !
 
