@@ -17,7 +17,7 @@
   - spoolsv.exe : https://github.com/jongwuner/Etc/wiki/Spoolsv.exe-%3F
 - *Solution* is DLL Injection : https://reversecore.com/38?category=216978
 
-# Now
+# Issues
 - Following Deviare Tutorial. 
   - ![ex_screenshot](./img/present.png)  
 
@@ -26,3 +26,8 @@
   - *Success* Notepad DLL Injection(19.07.29) 
     - link. https://github.com/jongwuner/Etc/tree/master/Hooking/DLL%20Injection_Notepad
     - ref. https://wendys.tistory.com/23
+
+# To-do
+- CodeReview(DLL && DLLInjection)
+- Login-View
+- Connect DB
