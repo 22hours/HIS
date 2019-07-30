@@ -16,7 +16,6 @@
 >하정구의 [README](./15JeongGu/jeonggu.md)<br>
 >하정구의 [Git](https://github.com/hjg0629)
 
-
 🌕 Description about our Project!
 ---
 🌕🌕🌕🌕🌕🌕🌕🌕🌕
