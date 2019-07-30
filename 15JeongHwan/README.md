@@ -106,7 +106,17 @@ this is the code and i find the problem point in code
 
 the problem is conditional sentence in if cluase!!
 
-so i fixed it !!
+so i fixed it !
+
+#### Issue
+
+- How to applicate this program to our project
+
+
+#### To do
+
+- Debuging until i find the clue
+
 
 ~~~
  private bool GetProcess(string proccessName)
