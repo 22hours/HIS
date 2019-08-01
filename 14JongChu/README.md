@@ -26,6 +26,7 @@
   - *Success* Notepad DLL Injection(19.07.29) 
     - link. https://github.com/jongwuner/Etc/tree/master/Hooking/DLL%20Injection_Notepad
     - ref. https://wendys.tistory.com/23
+  - 회식이 너무 많아 ㅠㅠㅠㅠㅠ(19.08.01)
 
 # To-do
 - CodeReview(DLL && DLLInjection)
