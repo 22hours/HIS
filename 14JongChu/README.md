@@ -18,8 +18,8 @@
 - *Solution* is DLL Injection : https://reversecore.com/38?category=216978
 
 # Issues
-- Following Deviare Tutorial. 
-  - ![ex_screenshot](./img/present.png)  
+- Success Deviare Tutorial.(19.08.04) 
+  - ![ex_screenshot](./img/Success_Deviare_LI1.jpg)
 
 - ## Doing DLL Injection Tutorial(19.07.26~)
   - https://reversecore.com/38?category=216978
