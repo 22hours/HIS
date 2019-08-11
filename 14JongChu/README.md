@@ -19,8 +19,10 @@
 
 # Issues
 - Success Deviare Tutorial.(19.08.04) 
-  - ![ex_screenshot](./img/Success_Deviare_LI1.jpg)
-
+  - ![ex_screenshot](./img/Success_Deviare_LI1.jpg)  
+  
+- Commit Issue : HIS_1.0.2(Ver.Jongchu)
+  - ![commit_issue](https://user-images.githubusercontent.com/16419202/62830365-a4cbd600-bc48-11e9-864e-5917755614e9.PNG)
 - ## Doing DLL Injection Tutorial(19.07.26~)
   - https://reversecore.com/38?category=216978
   - *Success* Notepad DLL Injection(19.07.29) 
