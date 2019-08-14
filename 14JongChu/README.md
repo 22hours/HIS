@@ -18,10 +18,13 @@
 - *Solution* is DLL Injection : https://reversecore.com/38?category=216978
 
 # Issues
-- Success Deviare Tutorial.(19.08.04) 
+- **Success Deviare Tutorial.(19.08.04)** 
   - ![ex_screenshot](./img/Success_Deviare_LI1.jpg)  
-  
-- Commit Issue : HIS_1.0.2(Ver.Jongchu)
+- **Success View && DB Connect(Join).(19.08.14)**
+  - ![view_screenshot](https://user-images.githubusercontent.com/16419202/63029837-373fd400-beec-11e9-97f4-472eb8f0cb23.png)
+  - ![DB_screenshot1](https://user-images.githubusercontent.com/16419202/63029529-b1238d80-beeb-11e9-998e-af519b5f1119.png)
+  - ![DB_screenshot2](https://user-images.githubusercontent.com/16419202/63029408-7b7ea480-beeb-11e9-93ea-b38e35b6d220.png)
+- **Commit Issue : HIS_1.0.2(Ver.Jongchu)**
   - ![commit_issue](https://user-images.githubusercontent.com/16419202/62830365-a4cbd600-bc48-11e9-864e-5917755614e9.PNG)
 - ## Doing DLL Injection Tutorial(19.07.26~)
   - https://reversecore.com/38?category=216978
