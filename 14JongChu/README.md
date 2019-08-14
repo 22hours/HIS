@@ -35,7 +35,7 @@
 
 # To-do
 - CodeReview(DLL && DLLInjection)
-- Login-View
-- Connect DB
 - SelfAuth && OAuth
-- DLLInjection ----> LoginView
+- DLLInjection -> LoginView  
++ Login-View(UI Develop)  
++ Connect DB(Login)
