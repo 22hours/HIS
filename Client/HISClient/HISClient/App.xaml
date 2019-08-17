@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:HISClient"
              StartupUri="MainWindow.xaml"
-             Exit="Application_Exit">
+             ShutdownMode="OnExplicitShutdown">
     <Application.Resources>
          
     </Application.Resources>

@@ -87,13 +87,12 @@ namespace HISClient
 
         public void CloseWPF(object sender, RoutedEventArgs e)
         {
-            Environment.Exit(0);
+            Application.Current.Shutdown(0);
         }
 
         public void CloseWPF2(object sender, RoutedEventArgs e)
         {
-            ((App)Application.Current).ToggleFlag();
-            Environment.Exit(0);
+            Application.Current.Shutdown(1);
         }
 
 

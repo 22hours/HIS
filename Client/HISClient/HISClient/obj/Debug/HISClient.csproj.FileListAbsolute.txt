@@ -15,3 +15,4 @@ C:\Users\king1\source\repos\HISClient\HISClient\obj\Debug\HISClient.exe
 C:\Users\king1\source\repos\HISClient\HISClient\obj\Debug\HISClient.pdb
 C:\Users\king1\source\repos\HISClient\HISClient\obj\Debug\MainView.g.cs
 C:\Users\king1\source\repos\HISClient\HISClient\obj\Debug\MainView.baml
+C:\Users\king1\source\repos\HISClient\HISClient\obj\Debug\App.baml
