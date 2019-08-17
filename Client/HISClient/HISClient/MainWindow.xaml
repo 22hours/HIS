@@ -1,0 +1,27 @@
+﻿<Window x:Class="HISClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HISClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="ID" Margin="38,26,702,339" FontSize="24"></TextBlock>
+        <TextBox x:Name="idBox" Margin="120,26,452,347" ></TextBox>
+        <TextBlock Text="PW" Margin="38,85,702,280" FontSize="24"></TextBlock>
+        <PasswordBox x:Name="pwBox"  Margin="120,85,452,288" ></PasswordBox>
+        <Button x:Name="button" Click="Login" Content="Login" HorizontalAlignment="Left" VerticalAlignment="Top" Width="231" Margin="375,26,0,0" Height="105"/>
+        <TextBlock Text="ID" Margin="38,178,702,210" FontSize="24"/>
+        <TextBox x:Name="REG_idBox" Margin="120,178,452,215" />
+        <TextBlock Text="PW" Margin="38,209,702,176" FontSize="24"/>
+        <PasswordBox x:Name="REG_pwBox"  Margin="120,209,452,181" />
+        <TextBlock Margin="38,248,702,142" FontSize="24"><Run Text="PW"/><Run Text="2"/></TextBlock>
+        <PasswordBox x:Name="REG_pwReBox"  Margin="120,248,452,142" />
+        <Button x:Name="button_Copy" Click="Register" Content="Register" HorizontalAlignment="Left" VerticalAlignment="Top" Width="231" Margin="375,179,0,0" Height="191"/>
+        <TextBlock Text="NAME" Margin="38,282,677,103" FontSize="24"/>
+        <TextBox x:Name="REG_nameBox"  Margin="120,282,452,108" />
+        <TextBlock Text="MAJOR" Margin="38,316,677,69" FontSize="24"/>
+        <TextBox x:Name="REG_majorBox"  Margin="120,316,452,74" />
+    </Grid>
+</Window>

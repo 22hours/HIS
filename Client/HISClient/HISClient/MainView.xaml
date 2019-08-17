@@ -1,0 +1,27 @@
+﻿<Window x:Class="HISClient.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HISClient"
+        mc:Ignorable="d"
+        Title="MainView" Height="630" Width="395">
+    <Grid x:Name="GridM">
+        <StackPanel>
+            <Border Background="White" BorderThickness="0" BorderBrush="Gray" Height="61" Margin="0,0,0,5">
+                <Border.Effect>
+                    <DropShadowEffect ShadowDepth="1" Color="#FFD8D4D4"></DropShadowEffect>
+                </Border.Effect>
+                <StackPanel>
+                    <TextBlock Text="{Binding UID}" Height="36" Margin="10" TextAlignment="Center" FontSize="48" FontFamily="Microsoft YaHei"></TextBlock>
+                </StackPanel>
+            </Border>
+            <StackPanel Height="531">
+                <TextBlock  x:Name="nameBox" Height="40" Text="{Binding Name}"></TextBlock>
+                <TextBlock  x:Name="majorBox" Height="40" Text="{Binding Major}"></TextBlock>
+                <TextBlock x:Name="moneyBox" Height="40" Text="{Binding Money}"></TextBlock>
+                <Button Content="Check My Info" Click="GetMyINF" Height="47"></Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
