@@ -21,6 +21,9 @@
                 <TextBlock  x:Name="majorBox" Height="40" Text="{Binding Major}"></TextBlock>
                 <TextBlock x:Name="moneyBox" Height="40" Text="{Binding Money}"></TextBlock>
                 <Button Content="Check My Info" Click="GetMyINF" Height="47"></Button>
+                <Button x:Name="button" Content="Return 0" Click="CloseWPF"/>
+                <Button x:Name="button2" Content="Return 1" Click="CloseWPF2"/>
+
             </StackPanel>
         </StackPanel>
     </Grid>

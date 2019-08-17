@@ -85,6 +85,18 @@ namespace HISClient
             GridM.DataContext = this;
         }
 
+        public void CloseWPF(object sender, RoutedEventArgs e)
+        {
+            Environment.Exit(0);
+        }
+
+        public void CloseWPF2(object sender, RoutedEventArgs e)
+        {
+            ((App)Application.Current).ToggleFlag();
+            Environment.Exit(0);
+        }
+
+
         public void GetMyINF(object sender , RoutedEventArgs e)
         {
             nameBox.Text = ((App)Application.Current).getName();

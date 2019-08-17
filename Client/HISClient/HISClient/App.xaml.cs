@@ -21,7 +21,7 @@ namespace HISClient
             StartSocket();
         }
 
-
+        public bool flag = false;
         public static string id ="123";
         public static string name ="123";
         public static string major ="!23";
@@ -66,6 +66,10 @@ namespace HISClient
             return money;
         }
 
+        public void closeApp()
+        {
+        }
+
         public class Uinfo
         {
             private string uID;
@@ -87,12 +91,32 @@ namespace HISClient
             public string UMONEY { get => uMONEY; set => uMONEY = value; }
         }
 
+        public void ToggleFlag()
+        {
+            flag = true;
+        }
+
+        private void Application_Exit(object sender, ExitEventArgs e)
+        {
+            if (flag)
+            {
+                e.ApplicationExitCode = 1;
+            }
+            else
+            {
+                e.ApplicationExitCode = 0;
+            }
+        }
+
         Uinfo ui;
 
         public Uinfo GetInfo()
         {
             return ui;
         }
+
+    [System.Security.SecurityCritical]
+   
 
         public string GetName()
         {
