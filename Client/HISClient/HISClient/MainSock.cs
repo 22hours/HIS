@@ -75,8 +75,8 @@ namespace HISClient
 
         public bool StartConnect()
         {
-            string address = "127.0.0.1";
-            //string address = "203.229.204.23"; // "127.0.0.1" 도 가능
+           // string address = "127.0.0.1";
+            string address = "203.229.204.23"; // "127.0.0.1" 도 가능
             int port = 12345;
             return BeginConnection(address, port);
         }
