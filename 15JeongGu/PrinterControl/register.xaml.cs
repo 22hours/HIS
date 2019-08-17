@@ -31,6 +31,7 @@ namespace PrinterControl
 
         public Page2()
         {
+            
             InitializeComponent();
         }
 

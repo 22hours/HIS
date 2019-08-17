@@ -1,0 +1,55 @@
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\bin\Debug\PrinterControl.exe.config
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\bin\Debug\PrinterControl.exe
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\bin\Debug\PrinterControl.pdb
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\bin\Debug\MySql.Data.dll
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\bin\Debug\Google.Protobuf.dll
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\bin\Debug\MySql.Data.xml
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl.csprojAssemblyReference.cache
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\mainPage.g.cs
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\MainWindow.g.cs
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\login.g.cs
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\register.g.cs
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\test.g.cs
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\App.g.cs
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl_MarkupCompile.cache
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl_MarkupCompile.lref
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\mainPage.baml
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\MainWindow.baml
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\login.baml
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\register.baml
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\test.baml
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl.g.resources
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl.Properties.Resources.resources
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl.csproj.GenerateResource.cache
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl.csproj.CoreCompileInputs.cache
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl.csproj.CopyComplete
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl.exe
+C:\Users\JeongGu Ha\Desktop\폴더 정리\가톨릭대학교\19년\프로젝트\PrinterControl\obj\Debug\PrinterControl.pdb
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl.exe
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl.pdb
+C:\Users\FAN\Desktop\PrinterControl\bin\Debug\PrinterControl.exe.config
+C:\Users\FAN\Desktop\PrinterControl\bin\Debug\PrinterControl.exe
+C:\Users\FAN\Desktop\PrinterControl\bin\Debug\PrinterControl.pdb
+C:\Users\FAN\Desktop\PrinterControl\bin\Debug\Google.Protobuf.dll
+C:\Users\FAN\Desktop\PrinterControl\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\FAN\Desktop\PrinterControl\bin\Debug\MySql.Data.xml
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl.csprojResolveAssemblyReference.cache
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\mainPage.g.cs
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\MainWindow.g.cs
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\login.g.cs
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\register.g.cs
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\test.g.cs
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\App.g.cs
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl_MarkupCompile.cache
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl_MarkupCompile.lref
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\mainPage.baml
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\MainWindow.baml
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\login.baml
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\register.baml
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\test.baml
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl.g.resources
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl.Properties.Resources.resources
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl.csproj.GenerateResource.cache
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl.csproj.CoreCompileInputs.cache
+C:\Users\FAN\Desktop\PrinterControl\obj\Debug\PrinterControl.csproj.CopyComplete

@@ -11,7 +11,9 @@
     <Grid>
         <Button x:Name="LOGIN" Content="{Binding login}" HorizontalAlignment="Left" Margin="27,43,0,260" Width="121" Click="LGN_Button_Click" RenderTransformOrigin="0.5,0.5"/>
         <Button x:Name="REGISTER" Content="Register" HorizontalAlignment="Left" Margin="153,43,0,0" VerticalAlignment="Top" Width="127" Height="57" Click="RGT_Button_Click"/>
+        
         <Label x:Name="USER" Content="사용자" HorizontalAlignment="Left" Margin="27,5,0,0" VerticalAlignment="Top" Visibility="{Binding user}"/>
         <TextBlock x:Name="ID" HorizontalAlignment="Left" Margin="81,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding id}"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="27,125,0,0" VerticalAlignment="Top" Width="121" Height="55" Click="Button_Click"/>
     </Grid>
 </Page>

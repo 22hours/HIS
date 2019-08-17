@@ -29,7 +29,8 @@ namespace PrinterControl
         public mainPage()
         {
             InitializeComponent();
-            PrinterDevicePortEventMonitor.scanPorts();
+            //PrinterDevicePortEventMonitor.asdf();
+            //PrinterDevicePortEventMonitor.scanPorts();
             //PrinterDevicePortEventMonitor.GetHDDSerialNumber("C");
             Binding login = new Binding();
             Binding id = new Binding();
@@ -111,6 +112,11 @@ namespace PrinterControl
                 MessageBox.Show(ex.ToString());
             }
             */
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            PrinterDevicePortEventMonitor.GetHDDSerialNumber("C");
         }
     }
 
