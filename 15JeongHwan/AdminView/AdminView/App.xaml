@@ -1,0 +1,37 @@
+﻿<Application x:Class="AdminView.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AdminView"
+             xmlns:uc1="clr-namespace:AdminView.View"
+             xmlns:vm1="clr-namespace:AdminView.VM"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary 
+            xmlns:local="clr-namespace:AdminView"
+     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns="http://schemas.microsoft.com/netfx/2009/xaml/presentation"
+            xmlns:uc="clr-namespace:AdminView"
+           xmlns:vm="clr-namespace:AdminView.VM">
+            <ResourceDictionary.MergedDictionaries>
+            </ResourceDictionary.MergedDictionaries>
+            <DataTemplate DataType="{x:Type vm:ChargeViewModel}">
+                <uc1:ChargeUserControl></uc1:ChargeUserControl>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:MyPageViewModel}">
+                <uc1:MyPageUserControl></uc1:MyPageUserControl>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:LicenseViewModel}">
+                <uc1:LicenseUserControl></uc1:LicenseUserControl>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:UsageViewModel}">
+                <uc1:UsageUserControl></uc1:UsageUserControl>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:EditViewModel}">
+                <uc1:EditUserControl></uc1:EditUserControl>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:LoginViewModel}">
+                <uc1:LoginUserControl></uc1:LoginUserControl>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
