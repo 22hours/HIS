@@ -32,7 +32,8 @@
     - link. https://github.com/jongwuner/Etc/tree/master/Hooking/DLL%20Injection_Notepad
     - ref. https://wendys.tistory.com/23
   - 부팅과 동시에 DLL Memory에 삽입. register.
-    - ref. https://suban.tistory.com/679
+    - ref1. https://suban.tistory.com/679
+    - ref2. https://reversecore.com/41
 
 # To-do
 - CodeReview(DLL && DLLInjection)
