@@ -8,8 +8,8 @@
 > 4. Login실패 -> Exit<br>
 
 **원리 :** 
-> 1. AppInit_DLLs에 Value값을 재지정 -> `user32.dll`사용하는 프로세스에 `typress.dll`을 컴퓨터부팅과 동시에 injection.
-> ※ 대상 프로세스인 `spoolsv.exe`와 `splwow64.exe`는 `user32.dll`을 사용)
+> 1. AppInit_DLLs에 Value값을 재지정 -> `user32.dll`사용하는 프로세스에 `typress.dll`을 컴퓨터부팅과 동시에 injection.<br>
+> ※ 대상 프로세스인 `spoolsv.exe`와 `splwow64.exe`는 `user32.dll`을 사용)<br>
 > 2. `typress.dll`에서는 지금 현재 자신을 호출한 프로세스가 (`spoosv.exe` || `splwow64.exe`인 경우 실행)
 > 3. C# WPF기반의 `typressLogin.exe` 호출
 
