@@ -1,10 +1,17 @@
-# Scenario 종추Ver
-> 1. When a printer request comes in.
-> 2. `The spoolsv.exe` process runs automatically.
-> 3. **DLL Injection** works with `typepress.dll`.
-> 4. Activate the **authentication** process. <br>
-> 5-1. Login **Success** -> **Print O**<br>
-> 5-2. Login **Failed** -> **Print X**
+# Scenario 종추Ver(19.08.23)
+
+**시나리오 :**
+> 1. `한글`, `워드` 등의 실행중인 프로세스에서 '인쇄'버튼을 누른다.
+> 2. 로컬 디렉토리에 있는 `LoginForm.exe`를 실행시킨다.
+> 3. Login성공 -> 인쇄작업 시작.
+>   3-1. 인쇄매수 만큼의 마일리지 DB에서 차감.
+> 4. Login실패 -> Exit<br>
+
+**원리 :** 
+> 1. AppInit_DLLs에 Value값을 재지정 -> `user32.dll`사용하는 프로세스에 `typress.dll`을 컴퓨터부팅과 동시에 injection.
+> ※ 대상 프로세스인 `spoolsv.exe`와 `splwow64.exe`는 `user32.dll`을 사용)
+> 2. `typress.dll`에서는 지금 현재 자신을 호출한 프로세스가 (`spoosv.exe` || `splwow64.exe`인 경우 실행)
+> 3. C# WPF기반의 `typressLogin.exe` 호출
 
 # History
 - First commit about view.(19.07.23~)
